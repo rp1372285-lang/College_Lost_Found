@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "item_name": "Wallet",
+        "category": "Other",
+        "location": "Library",
+        "description": "Block leather wallet with ID card",
+        "type": "Lost",
+        "status": "Returned",
+        "date": "22-10-2026"
+    },
+    {
+        "id": 2,
+        "item_name": "Wallet",
+        "category": "Other",
+        "location": "Library",
+        "description": "Black leather with ID card",
+        "type": "Found",
+        "status": "Returned",
+        "date": "22-10-2026"
+    },
+    {
+        "id": 3,
+        "item_name": "Wireless Earbuds",
+        "category": "Electronics",
+        "location": "Canteen",
+        "description": "Black Boat earbuds with cas",
+        "type": "Lost",
+        "status": "Returned",
+        "date": "22-10-2026"
+    },
+    {
+        "id": 4,
+        "item_name": "Wireless Earbuds",
+        "category": "Electronics",
+        "location": "Canteen",
+        "description": "Black earbuds found  on table",
+        "type": "Found",
+        "status": "Returned",
+        "date": "22-10-2026"
+    },
+    {
+        "id": 5,
+        "item_name": "Mobile",
+        "category": "Electronics",
+        "location": "Library",
+        "description": "Mobile lost",
+        "type": "Lost",
+        "status": "Returned",
+        "date": "22-10-2026"
+    },
+    {
+        "id": 6,
+        "item_name": "Mobile",
+        "category": "Electronics",
+        "location": "Library",
+        "description": "Mobile lost",
+        "type": "Found",
+        "status": "Returned",
+        "date": "22-10-2026"
+    }
+]
